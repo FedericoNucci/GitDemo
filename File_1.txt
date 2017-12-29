@@ -1,6 +1,6 @@
 Aggiungo un file nuovo.
 
 Aggiungo qualche riga qua e là.
-Tanto per prova.
+Nel frattempo modifico il file anche sul branch master. 
 
 Git è molto molto bello!
