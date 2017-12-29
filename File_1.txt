@@ -3,4 +3,9 @@ Aggiungo un file nuovo.
 Aggiungo qualche riga qua e là.
 Nel frattempo modifico il file anche sul branch master. 
 
+--> Branch "alternativo":  aggiungo cose belle
+
 Git è molto molto bello!
+
+--> Branch "alternativo":  come mi piace il branch alternativo!!!!!
+
