@@ -1,1 +1,6 @@
 Aggiungo un file nuovo.
+
+Aggiungo qualche riga qua e là.
+Tanto per prova.
+
+Git è bello!
